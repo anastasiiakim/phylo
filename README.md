@@ -9,10 +9,10 @@ g++ get_ranked_topology.cpp -o topo
 
 Program parameters and options:
 
-| Option        | Description   | 
-| ------------- |:-------------:| 
+| Option        | Description                                             | 
+| ------------- |:-------------------------------------------------------:| 
 | -st file      | Input a tree string in the Newick format through a file | 
-| -out file     | Provide an output file name      |   
+| -out file     | Provide an output file name                             |   
 
 
 # Examples
