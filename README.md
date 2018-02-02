@@ -27,6 +27,7 @@ Program parameters and options:
 | -topo file    | Input a species tree topology through the file          | 
 | -sort file    | Specify the file name of sorted gene topologies         |
 |               | starting from the tree with the highest probability     |   
+
 output files:
 num_anomal.txt
 
