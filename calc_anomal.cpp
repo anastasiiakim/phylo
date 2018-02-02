@@ -344,7 +344,7 @@ int main(int argc, char **argv)
             if(arg_counter < argc) arg = argv[arg_counter];
         }
 
-        if(arg == "-prob")
+        if(arg == "-sort")
         {
             ++arg_counter;
             ifstream probs_file(argv[arg_counter]); //temp_probForEachGT.txt
