@@ -1,11 +1,11 @@
 # phylo
-programs that work with phylogenetic trees in the Newick format
+programs designed for phylogenetic trees in the Newick format
 
 **get_ranked_topology**
-is used to get ranked tree topology (clades followed by their ranks) given species tree in the Newick format.
+is used to get ranked tree topology (clades followed by their ranks) given a species tree in the Newick format.
 
 **calc_anomal.cpp**
-is used to calculate number of species trees producing anomalous gene trees and number of anomalous gene trees.
+is used to calculate number of species trees producing anomalous gene trees and the number of anomalous gene trees.
 
 # Compile
 g++ get_ranked_topology.cpp -o topo 
